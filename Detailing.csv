@@ -1,4 +1,4 @@
-Physician,Date,NewPrescription,Samples,Details,CompetitorNew,Medical CPI,DRG,Psych
+Physician,Date,NewPrescription,Samples,Details,CompetitorNew,MedicalCPI,DRG,Psych
 1,1,10,0,0,11,245.2,389.85,1
 2,1,11,0,2,2,245.2,389.85,0
 3,1,11,0,1,38,245.2,389.85,0
