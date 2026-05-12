@@ -1,4 +1,4 @@
-id,y,w,region,usuario,antiguedad,genero
+id,y,t,region,usuario,antiguedad,genero
 1,0,0,RegionA,Ligero,39.1332797,Mujer
 2,0,0,RegionA,Ligero,42.87601333,Hombre
 3,1,0,RegionA,Pesado,22.91793774,Hombre
